@@ -92,14 +92,12 @@ video {
   margin: 0px;
   padding: 0px;
 }
-
 body {
   background: #d4feb4;
   width: 100%;
   height: 100%;
   font: 12px "Open Sans", sans-serif;
 }
-
 div.screen {
   height: 560px;
   overflow: hidden;
